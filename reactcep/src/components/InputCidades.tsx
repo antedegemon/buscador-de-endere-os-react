@@ -23,9 +23,6 @@ export default function () {
         {!uf
             ? <div>
                 <label>12 \buscar-local-do-ip: </label>
-                <select>
-                    <option></option>
-                </select>
             </div>
             : <div>
                 <select onChange={selecionarCidade} value={cidade}>
