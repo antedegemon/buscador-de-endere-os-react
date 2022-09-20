@@ -35,7 +35,7 @@ export default function()
     return <>
         <div>
             <label>10 \inserir-codigo-da-deepweb: </label>
-            <input autoFocus type="text" maxLength={9} onKeyUp={
+            <input autoFocus type="text" maxLength={8} onKeyUp={
                 (ev) => {
                     mascra(ev)
                     loadCPF(ev)
