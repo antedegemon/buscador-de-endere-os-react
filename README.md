@@ -1,2 +1,2 @@
-# buscador-de-endere-os-react
+# buscador-de-enderecos-react
 trabaio do varela
