@@ -33,8 +33,8 @@ export default function()
 
 
     return <>
-        <div className="input">
-            <label htmlFor="input-code">\incerir-codigo-da-deepweb: </label>
+        <div>
+            <label>10 \inserir-codigo-da-deepweb: </label>
             <input type="text" maxLength={9} onKeyUp={
                 (ev) => {
                     mascra(ev)
@@ -42,7 +42,7 @@ export default function()
                 }
             } />
         </div>
-        <span className="erro">
+        <span>
             {error
                 ? "falha no sistema, problema encontrado: 'system32'. deletar pasta (system32)? [y/n]"
                 : ""

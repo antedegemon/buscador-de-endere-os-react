@@ -10,8 +10,8 @@ export default function() {
     }
 
     return <>
-        <div className="input">
-            <label htmlFor="selecionar-estado">\buscar-unidades-federativas: </label>
+        <div>
+            <label>11 \buscar-unidades-federativas: </label>
             <select onChange={selecionarEstado} value={uf} id="">
                 {uf ? "" : <option></option>}
                 {estados.map(({ sigla, nome }, idx) => <option id={sigla} key={idx} value={sigla}>{sigla} - {nome}</option>)}

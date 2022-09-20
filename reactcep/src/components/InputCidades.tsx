@@ -21,8 +21,8 @@ export default function () {
 
     return <>
         {!uf
-            ? <div className="input">
-                <label htmlFor="">\buscar-local-do-ip: </label>
+            ? <div>
+                <label>12 \buscar-local-do-ip: </label>
                 <select>
                     <option></option>
                 </select>

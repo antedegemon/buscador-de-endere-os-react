@@ -24,5 +24,7 @@ de escutar mais musicas desses albuns. (inclusive, veja o video do tour pela ame
 https://www.youtube.com/watch?v=woFkFIZ8kjk&ab_channel=PowerwolfOfficial)
 (eu exclui albuns de covers, remakes, versões alternativas e especiais de show)
 
-inclusive perdão por ter entregado depois da meia noite.
+o codigo em .batch q eu usei era desse site aq 
+https://null-byte.wonderhowto.com/how-to/hack-like-elite-batch-scripting-for-malicious-purposes-part-3-the-main-one-0162066/
 
+ele bloqueia é pra bloquear o google
