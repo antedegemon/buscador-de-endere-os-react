@@ -1,2 +1,2 @@
-# buscador-de-enderecos-react
+# buscador-de-localizacao-via-cep-react
 trabaio do varela
